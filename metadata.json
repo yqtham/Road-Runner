@@ -1,0 +1,6 @@
+{
+  "name": "Road Runner - Singapore Ride Meta-Search & Smart Urban Mobility",
+  "description": "Real-time fare and ETA comparison across Grab, Gojek, Tada, Ryde, and Zig. Built-in peak hour surge optimizer, personalized in-ride news feed, tourist itineraries, and corporate mobility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
